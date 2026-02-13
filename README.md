@@ -3,7 +3,9 @@
 
 Shell inside a shell..
 
-<img width="800" alt="walnut-homepage" src="https://github.com/user-attachments/assets/ddd038c1-f0d6-45b1-8d88-2634567d42a0" />
+<p align="center">
+  <img width="700" alt="walnut-homepage" src="https://github.com/user-attachments/assets/ddd038c1-f0d6-45b1-8d88-2634567d42a0" />
+</p>
 
 "The Walnut" is a compact, battery-powered RISC-V server built using the **Seeed Studio XIAO ESP32-C6** and recycled hardware. It’s a proof-of-concept in ultra-miniature, organic computing.
 
@@ -11,8 +13,12 @@ Shell inside a shell..
 ---
 
 ### 📺 Watch the Build
-[![The Walnut Build Video](https://img.shields.io/badge/YouTube-Watch%20the%20Build-red?style=for-the-badge&logo=youtube)](INSERT_YOUR_YOUTUBE_LINK_HERE)
 
+<p align="center">
+  <a href="https://youtu.be/xkwny4teBYU">
+    <img src="https://img.youtube.com/vi/xkwny4teBYU/maxresdefault.jpg" alt="The Walnut Build Video" width="700">
+  </a>
+</p>
 ---
 
 ### 🛠 Tech Specs
